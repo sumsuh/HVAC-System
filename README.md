@@ -42,7 +42,7 @@
 
 ## Presented By:
 
-Gurmeet Singh						IIT2019121
+Sumit Bakoliya          IIT2019083
 Sagar Barman						IIT2019140
 Prathamesh Pandurang Gandhawale				IIT2019181
 Ekansh Nishad						IIT2019182
